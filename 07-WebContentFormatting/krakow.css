@@ -1,0 +1,20 @@
+th {
+    background-color: darkgreen;
+}
+td {
+    padding: 50px;
+}
+table {
+    width: 100%;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+tr {
+    color: blue;
+}
+tr :hover {
+    background-color: blueviolet;
+}
+tr :active {
+    background-color: red;
+}
